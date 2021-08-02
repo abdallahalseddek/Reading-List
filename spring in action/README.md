@@ -10,4 +10,4 @@
 - Domain class that defines the properties of taco ingerdient
 - A Spring MVC controller that fetches ingredient information and passes it along to the view
 - A view template that renders a list of ingredients in the user's browser.
-![mvc diagram](https://github.com/abdallahalseddek/spring-in-action/blob/028f7a6c87e3fc853c1de28353ed0bc8fa6c94e3/src/main/resources/static/images/mvc%20flow.png)
+![mvc diagram](https://github.com/abdallahalseddek/Reading-List/blob/main/spring%20in%20action/src/main/resources/static/images/mvc%20flow.png?raw=true)
